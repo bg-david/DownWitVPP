@@ -22,7 +22,7 @@ No. Keynote was manually downloaded from the App Store.
 
 ### Limitations
 
-- This is a very cursory receipt check. It's plausible that it doesn't handle "adoptable apps" (i.e. the pre-installed, but App Store-updatable). App bundles like Keynote, Pages, and Numbers are examples on a standard new Mac. It's possible that configure-to-order "pro" applications available for purchase on new Macs such as Final Cut Pro and Logic Pro are also using the adoptable state. More testing needed.
+- This is a very cursory receipt check. It's plausible that it doesn't handle "adoptable apps" (i.e. apps that are pre-installed, but App Store-updatable). App bundles like Keynote, Pages, and Numbers are examples on a standard new Mac. It's possible that configure-to-order "pro" applications available for purchase on new Macs such as Final Cut Pro and Logic Pro are also using the adoptable state. More testing needed.
 
 - This check does not support iPhone and iPad apps running on Apple Silicon. iPhone and iPad apps running on Apple Silicon have information available in "$app/Wrapper/iTunesMetadata.plist" with keys outlining various download mechanisms for the app. e.g. sideLoadedDeviceBasedVPP, DeviceBasedVPP, and B2BCustomApp. More research is needed.
 
