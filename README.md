@@ -2,7 +2,7 @@
 
 ### Overview
 
-DownWitVPP is a command line script to determine if a given Mac app is from the Mac App Store and, if so, if it was manually downloaded from the app store or installed using device-based VPP licensing through a mobile device management product. 
+DownWitVPP is a command line script to determine if a given Mac app is from the Mac App Store and, if so, if it was manually downloaded from the app store or installed using device-based Apps and Books (née Volume Purchase Program or VPP) licensing through a mobile device management product. 
 
 Any and all feedback is welcome.
 
